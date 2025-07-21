@@ -1,5 +1,8 @@
 # Hey, I'm ctxzero 👋
 
+![hacker gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM1aTVlaHY0a2tvZnl5OWdzam1mbzR4Z2FyOGw4YWg2Z3UxN2tkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kanka5wfr3BxGpLRQu/giphy.gif)
+
+
 **19 y/o | Aspiring Red Teamer | Penetration Tester in Training**
 
 ---
