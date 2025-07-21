@@ -47,8 +47,8 @@ My mission is to become one of the **best Red Team operators** in the industry â
 ### ðŸ’» Operating Systems & Shells  
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux Shell (mid)](https://img.shields.io/badge/Linux_Shell-Medium-FF9F1C?style=for-the-badge)
-![PowerShell (mid)](https://img.shields.io/badge/PowerShell-Medium-2E86AB?style=for-the-ba
+![Linux Shell](https://img.shields.io/badge/Linux_Shell-Medium-FF9F1C?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-Medium-2E86AB?style=for-the-badge)
 
 ---
 
