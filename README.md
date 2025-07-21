@@ -72,6 +72,15 @@ I’m currently fully committed to building a solid, real-world pentesting skill
 
 ---
 
+
+## 📚 My Writeups
+
+Here you'll find my documented solutions, notes, and learning journeys across various topics—including Capture The Flag (CTF) challenges, cybersecurity, and other technical projects.  
+Feel free to explore:
+
+👉 [ctxzero/writeups](https://github.com/ctxzero/writeups)
+
+
 ## 🌐 Connect with Me
 
 - 🧠 TryHackMe: [tryhackme.com/p/ctxzero](https://tryhackme.com/p/ctxzero)  
