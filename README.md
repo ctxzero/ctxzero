@@ -25,6 +25,31 @@ My mission is to become one of the **best Red Team operators** in the industry �
 - Vulnerability Research & Exploit Development (basics)
 - Tools: Nmap, Burp Suite, Wireshark, Metasploit, Gobuster, and more
 
+
+### 🧰 Tools & Utilities  
+![Nmap](https://img.shields.io/badge/Nmap-2F5D62?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjx0ZXh0IHg9JzAnIHk9JzE1JyBmaWxsPSd3aGl0ZSc+🔍</text></svg>)
+![Metasploit](https://img.shields.io/badge/Metasploit-3C096C?style=for-the-badge&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-7B2CBF?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-2C6E49?style=for-the-badge)
+![JohnTheRipper](https://img.shields.io/badge/JohnTheRipper-D72638?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-4A4E69?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-006D77?style=for-the-badge)
+
+### 🧠 Knowledge Areas  
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-FFC300?style=for-the-badge&logoColor=black)
+![Cryptography](https://img.shields.io/badge/Cryptography-5F0F40?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-1982C4?style=for-the-badge)
+![OSI Model](https://img.shields.io/badge/OSI_Model-6A4C93?style=for-the-badge)
+![SQL Injection](https://img.shields.io/badge/SQL_Injection-B5838D?style=for-the-badge)
+![Social Engineering (Ethical)](https://img.shields.io/badge/Social_Engineering-EA8C55?style=for-the-badge)
+
+### 💻 Operating Systems & Shells  
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Shell (mid)](https://img.shields.io/badge/Linux_Shell-Medium-FF9F1C?style=for-the-badge)
+![PowerShell (mid)](https://img.shields.io/badge/PowerShell-Medium-2E86AB?style=for-the-ba
+
 ---
 
 ## 🎯 Current Focus & Projects
