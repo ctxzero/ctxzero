@@ -20,17 +20,17 @@ I’m currently focused on building deep, practical skills through platforms lik
 
 ## 🧠 Core Competencies
 
-**Web Application Security** – Penetration testing of web apps, OWASP Top 10 vulnerabilities, secure coding awareness  
+- **Web Application Security** – Penetration testing of web apps, OWASP Top 10 vulnerabilities, secure coding awareness  
 
-**Network Penetration Testing** – Network scanning, enumeration, vulnerability assessment, exploitation 
+- **Network Penetration Testing** – Network scanning, enumeration, vulnerability assessment, exploitation 
 
-**Active Directory / Enterprise Security** – User enumeration, privilege escalation, Kerberos & LDAP attacks, lateral movement  
+- **Active Directory / Enterprise Security** – User enumeration, privilege escalation, Kerberos & LDAP attacks, lateral movement  
 
-**Exploit Development & Vulnerability Research** – Proof-of-Concept exploits, buffer overflows, binary analysis 
+- **Exploit Development & Vulnerability Research** – Proof-of-Concept exploits, buffer overflows, binary analysis 
 
-**Scripting & Automation** – Automating pentesting workflows and recon processes 
+- **Scripting & Automation** – Automating pentesting workflows and recon processes 
 
-**CTF / Lab Experience** – HackTheBox, TryHackMe, VulnHub labs, real-world scenario simulations
+- **CTF / Lab Experience** – HackTheBox, TryHackMe, VulnHub labs, real-world scenario simulations
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
