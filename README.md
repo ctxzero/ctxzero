@@ -1,6 +1,6 @@
 # Hey, I'm ctxzero 👋
 
-**19 y/o | Aspiring Red Teamer | Penetration Tester in Training**
+**Aspiring Red Teamer | Offensive Security Enthusiast | Penetration Tester**
 
 ---
 
@@ -12,32 +12,38 @@ I learn quickly, adapt fast, and immerse myself deeply in every topic I touch. T
 
 I’m currently focused on building deep, practical skills through platforms like **TryHackMe**, where I work daily on challenges and document what I learn.
 
-> *"I don't just break things — I understand how they break, why they break, and how to defend them."*
-
 ---
 
 ## 🧠 Core Competencies
 
-- Mastering web application security testing, including SQL Injection, Cross-Site Scripting (XSS), Insecure Direct Object References (IDOR), and Authentication Bypass  
-- Conducting comprehensive network scanning and vulnerability enumeration  
-- Solid foundation in Linux and Windows post-exploitation techniques  
-- Developing knowledge in Active Directory enumeration and attack methodologies  
+**Web Application Security** – Penetration testing of web apps, OWASP Top 10 vulnerabilities, secure coding awareness  
+
+**Network Penetration Testing** – Network scanning, enumeration, vulnerability assessment, exploitation 
+
+**Active Directory / Enterprise Security** – User enumeration, privilege escalation, Kerberos & LDAP attacks, lateral movement  
+
+**Exploit Development & Vulnerability Research** – Proof-of-Concept exploits, buffer overflows, binary analysis 
+
+**Scripting & Automation** – Automating pentesting workflows and recon processes 
+
+**CTF / Lab Experience** – HackTheBox, TryHackMe, VulnHub labs, real-world scenario simulations
 
 ---
 
 ## 📅 Learning Timeline
 
-- **Early Years**: Self-taught programming & IT fundamentals  
+- **Early Years**: Very Interested in Computers, Software and Hacking
+- **2022/2023**: Self thaught many Things out of Interest
 - **June 2025**: Began structured penetration testing journey on TryHackMe  
-- **July 2025**: Completed multiple real-world labs & web exploitation challenges including foundational paths like Pre Security and Cyber Security 101  
-- **August 2025 (Now)**: Started the **Junior Penetration Tester Path** on TryHackMe and actively documenting daily learnings in [learning-journey](https://github.com/ctxzero/learning-journey)
-
+- **July 2025**: Completed multiple real-world labs & challenges including foundational paths like Pre Security and Cyber Security 101  
+- **August 2025**: Started the **Junior Penetration Tester Path** & **Web Fundamentals** on TryHackMe and actively documenting daily learnings in [learning-journey](https://github.com/ctxzero/learning-journey)
+- **September 2025**: Finished the **Junior Penetration Tester Path & Web Fundamentals Path** and started with the **Offensive Pentesting Path** and other Rooms as a Preparation for the **PT1 Certification**
 ---
 
 ## 🎯 Current Goals
 
-- Completing Junior Penetration Tester, Web Fundamentals, Web Application Pentesting, and Red Team Paths  
-- Preparing for the PT1 (Pentesting Fundamentals) certification  
+- Completing and pass PT1
+- Do 2 other Advanced Paths on Tryhackme & switching to HTB Acadamy 
 - Exploring Bug Bounty programs and freelancing opportunities to gain real-world experience  
 
 ---
@@ -45,8 +51,8 @@ I’m currently focused on building deep, practical skills through platforms lik
 ## 🎯 Long-Term Vision
 
 - Expanding skills through platforms like HackTheBox and advanced CTFs  
-- Earning certifications such as CRTO and OSCP  
-- Establishing a freelance career and personal cybersecurity brand  
+- Earning certifications such as CPTS 4-5 months and OSCP in like 8-12months.
+- Establishing a freelance career and personal cybersecurity brand in the long term
 
 ---
 
@@ -76,6 +82,8 @@ I’m currently focused on building deep, practical skills through platforms lik
 > *"This isn’t just a phase. This is the path I’ve chosen to master — one challenge, one exploit, one system at a time."*  
 > — ctxzero
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ### 🔥 Let’s hack the planet — responsibly & ethically!
