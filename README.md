@@ -2,7 +2,9 @@
 
 **Aspiring Red Teamer | Offensive Security Enthusiast | Penetration Tester**
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 🚀 About Me
 
@@ -12,7 +14,9 @@ I learn quickly, adapt fast, and immerse myself deeply in every topic I touch. T
 
 I’m currently focused on building deep, practical skills through platforms like **TryHackMe**, where I work daily on challenges and document what I learn.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 🧠 Core Competencies
 
@@ -28,8 +32,9 @@ I’m currently focused on building deep, practical skills through platforms lik
 
 **CTF / Lab Experience** – HackTheBox, TryHackMe, VulnHub labs, real-world scenario simulations
 
----
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 ## 📅 Learning Timeline
 
 - **Early Years**: Very Interested in Computers, Software and Hacking
@@ -46,15 +51,18 @@ I’m currently focused on building deep, practical skills through platforms lik
 - Do 2 other Advanced Paths on Tryhackme & switching to HTB Acadamy 
 - Exploring Bug Bounty programs and freelancing opportunities to gain real-world experience  
 
----
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 ## 🎯 Long-Term Vision
 
 - Expanding skills through platforms like HackTheBox and advanced CTFs  
 - Earning certifications such as CPTS 4-5 months and OSCP in like 8-12months.
 - Establishing a freelance career and personal cybersecurity brand in the long term
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## ✍️ Selected Repositories
 
@@ -67,7 +75,9 @@ I’m currently focused on building deep, practical skills through platforms lik
 - 🛠️ **[tools (coming soon)](https://github.com/ctxzero)**  
   *Scripts and automation tools for reconnaissance and exploitation.*
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 🌐 Connect with Me
 
@@ -75,7 +85,9 @@ I’m currently focused on building deep, practical skills through platforms lik
 - 💻 GitHub: [github.com/ctxzero](https://github.com/ctxzero)  
 - 💬 Discord: `ctxzero`
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 💬 Final Words
 
