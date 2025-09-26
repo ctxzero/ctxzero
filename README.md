@@ -91,13 +91,4 @@ I’m currently focused on building deep, practical skills through platforms lik
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-## 💬 Final Words
 
-> *"This isn’t just a phase. This is the path I’ve chosen to master — one challenge, one exploit, one system at a time."*  
-> — ctxzero
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
-
-### 🔥 Let’s hack the planet — responsibly & ethically!
