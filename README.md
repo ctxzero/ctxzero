@@ -43,7 +43,10 @@ I’m currently focused on building deep, practical skills through platforms lik
 - **July 2025**: Completed multiple real-world labs & challenges including foundational paths like Pre Security and Cyber Security 101  
 - **August 2025**: Started the **Junior Penetration Tester Path** & **Web Fundamentals** on TryHackMe and actively documenting daily learnings in [learning-journey](https://github.com/ctxzero/learning-journey)
 - **September 2025**: Finished the **Junior Penetration Tester Path & Web Fundamentals Path** and started with the **Offensive Pentesting Path** and other Rooms as a Preparation for the **PT1 Certification**
----
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 🎯 Current Goals
 
