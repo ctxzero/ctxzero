@@ -42,7 +42,7 @@ I’m currently focused on building deep, practical skills through platforms lik
 - **2022/2023**: Self thaught many Things out of Interest
 - **June 2025**: Began structured penetration testing journey on TryHackMe  
 - **July 2025**: Completed multiple real-world labs & challenges including foundational paths like Pre Security and Cyber Security 101  
-- **August 2025**: Started the **Junior Penetration Tester Path** & **Web Fundamentals** on TryHackMe and actively documenting daily learnings in [learning-journey](https://github.com/ctxzero/learning-journey)
+- **August 2025**: Started the **Junior Penetration Tester Path** & **Web Fundamentals** on TryHackMe 
 - **September 2025**: Finished the **Junior Penetration Tester Path & Web Fundamentals Path** and started with the **Offensive Pentesting Path** and other Rooms as a Preparation for the **PT1 Certification**
 
 <div align="center">
@@ -70,9 +70,6 @@ I’m currently focused on building deep, practical skills through platforms lik
 </div>
 
 ## ✍️ Selected Repositories
-
-- 🔒 **[learning-journey](https://github.com/ctxzero/learning-journey)**  
-  *Daily logs and reflections documenting what I learn every day in cybersecurity.*
 
 - 🧩 **[writeups](https://github.com/ctxzero/writeups)**  
   *Detailed CTF writeups, TryHackMe room solutions, and penetration testing notes.*
