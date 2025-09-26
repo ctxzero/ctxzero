@@ -1,4 +1,4 @@
-# Hey, I'm ctxzero 👋
+# Hey, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm ctxzero 
 
 **Aspiring Red Teamer | Offensive Security Enthusiast | Penetration Tester**
 
