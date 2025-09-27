@@ -12,7 +12,7 @@ I'm **ctxzero**, an ambitious and curious aspiring red teamer focused on offensi
 
 I learn quickly, adapt fast, and immerse myself deeply in every topic I touch. This field isn’t just a hobby for me — it’s what I want to build my future around. Ethical hacking combines everything I love: logic, creativity, challenge, and real-world impact.
 
-I’m currently focused on building deep, practical skills through platforms like **TryHackMe**, where I work daily on challenges and document what I learn.
+I’m currently focused on building deep, practical skills through platforms like **TryHackMe**, where I work daily on challenges.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
