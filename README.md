@@ -87,9 +87,10 @@ I’m currently focused on building deep, practical skills through platforms lik
 
 ## 🌐 Connect with Me
 
-- 🧠 TryHackMe: [tryhackme.com/p/ctxzero](https://tryhackme.com/p/ctxzero)  
+- 🧠 TryHackMe: [tryhackme.com/p/ctxzero](https://tryhackme.com/p/ctxzero) 
 - 💻 GitHub: [github.com/ctxzero](https://github.com/ctxzero)  
 - 💬 Discord: `ctxzero`
+- 🔔 LinkedIn: [LinkedIn](https://www.linkedin.com/in/luis-schlegel-a38937387/)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
