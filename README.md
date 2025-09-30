@@ -17,7 +17,7 @@ I’m currently focused on building deep, practical skills through platforms lik
 ## 🎓 Certifications
 
 - **eJPT – Junior Penetration Tester** (INE / eLearnSecurity)  
-  [View Certificate](https://certs.ine.com/332e236c-0c13-46b2-9f85-829313d2dd27#acc.JqzwKTYI) ✅ First Try
+  [View Certificate](https://certs.ine.com/332e236c-0c13-46b2-9f85-829313d2dd27#acc.JqzwKTYI) 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
