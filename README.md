@@ -14,6 +14,11 @@ I learn quickly, adapt fast, and immerse myself deeply in every topic I touch. T
 
 I’m currently focused on building deep, practical skills through platforms like **TryHackMe**, where I work daily on challenges.
 
+## 🎓 Certifications
+
+- **eJPT – Junior Penetration Tester** (INE / eLearnSecurity)  
+  [View Certificate](https://certs.ine.com/332e236c-0c13-46b2-9f85-829313d2dd27#acc.JqzwKTYI) ✅ First Try
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
@@ -43,7 +48,7 @@ I’m currently focused on building deep, practical skills through platforms lik
 - **June 2025**: Began structured penetration testing journey on TryHackMe  
 - **July 2025**: Completed multiple real-world labs & challenges including foundational paths like Pre Security and Cyber Security 101  
 - **August 2025**: Started the **Junior Penetration Tester Path** & **Web Fundamentals** on TryHackMe 
-- **September 2025**: Finished the **Junior Penetration Tester Path & Web Fundamentals Path** and started with the **Offensive Pentesting Path** and other Rooms as a Preparation for the **PT1 Certification**
+- **September 2025**: Finished the **Junior Penetration Tester Path & Web Fundamentals Path** and started with the **Offensive Pentesting Path** and other Rooms as a Preparation for the **eJPT Certification** & at the 30.09 i passed it First Try!
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
@@ -51,7 +56,6 @@ I’m currently focused on building deep, practical skills through platforms lik
 
 ## 🎯 Current Goals
 
-- Completing and pass PT1
 - Do 2 other Advanced Paths on Tryhackme & switching to HTB Acadamy 
 - Exploring Bug Bounty programs and freelancing opportunities to gain real-world experience  
 
