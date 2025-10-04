@@ -1,7 +1,11 @@
 ### Junior Penetration Tester | Offensive Security | eJPT Certified
 
+--
+
 Focused on network, web application, and Active Directory penetration testing.  
 Active on TryHackMe and transitioning to Hack The Box.  
 
 Currently aiming for CPTS and OSCP certifications.  
-I’ll share write-ups and my learning journey here.
+I’ll share write-ups and my journey here.
+
+
