@@ -1,5 +1,10 @@
-Junior Penetration Tester | Offensive Security
+Junior Penetration Tester | Offensive Security | eJPT certified
 
-Learning on Tryhackme, and HTB soon.
+Focusing on Network, WebApplication and Active Directory Pentesting.
 
-eJPT certified
+Active on Tryhackme & swichting to HackTheBox soon.
+
+Aiming for CPTS and OSCP soon.
+
+I'll share Writeups and my Journey here :)
+
