@@ -12,7 +12,8 @@ I’ll share write-ups and my journey here.
 
 Contact:
 - Discord: ctxzero 
-- Mail: ZeroExploit.business@proton.me      
+- Mail: ZeroExploit.business@proton.me
+- Website: https://www.ctxzero.dev
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ctxzero.png" alt="Your Image Badge" />
 
