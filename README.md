@@ -3,7 +3,7 @@
 
 
 Focused on network, web application, and Active Directory penetration testing.                
-Active on TryHackMe and transitioning to Hack The Box soon.  
+Active on TryHackMe and HackTheBox. 
 
 Currently aiming for CPTS and OSCP certifications.  
 I’ll share write-ups and my journey here.
