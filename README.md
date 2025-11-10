@@ -1,22 +1,29 @@
-### Junior Penetration Tester | Offensive Security |  ###                        
+# Junior Penetration Tester | Offensive Security
+
+Focused on **Network**, **Web Application**, and **Active Directory** penetration testing.  
+Active on **TryHackMe** and **Hack The Box**.
+
+---
+
+### 🎯 Certifications
+- [+] eJPT
+- [+] Cyber Threat Intelligence 101
+- [+] Python Development
+- [ ] CPTS *(in progress)*
+- [ ] OSCP *(upcoming)*
+
+---
 
 
+### 📚 Writeups
+You'll find my writeups here:  
+👉 [GitHub – ctxzero/writeups](https://github.com/ctxzero/writeups/tree/main)
 
-Certs: eJPT | Cyber Threat Intelligence 101 | Python Development
+---
 
-Focused on network, web application, and Active Directory penetration testing.                
-Active on TryHackMe and HackTheBox. 
+### 📡 Contact
+- 💬 Discord: `ctxzero`
+- 📧 Mail: `ctxzero.pentest@gmail.com`
+- 🌐 Website: [ctxzero.dev](https://www.ctxzero.dev)
 
-Currently aiming for CPTS and OSCP certifications.  
-I’ll share write-ups and my journey here.
-
- You'll find my writeups here: [writeups](https://github.com/ctxzero/writeups/tree/main)
-
-Contact:
-- Discord: ctxzero 
-- Mail: ctxzero.pentest@gmail.com
-- Website: https://www.ctxzero.dev
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/ctxzero.png" alt="Your Image Badge" />
-
-
+---
