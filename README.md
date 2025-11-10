@@ -1,6 +1,8 @@
-### Junior Penetration Tester | Offensive Security | eJPT Certified ###                        
+### Junior Penetration Tester | Offensive Security |  ###                        
 
 
+
+Certs: eJPT | Cyber Threat Intelligence 101 | Python Development
 
 Focused on network, web application, and Active Directory penetration testing.                
 Active on TryHackMe and HackTheBox. 
