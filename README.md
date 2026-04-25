@@ -1,4 +1,4 @@
-# Junior Penetration Tester | Offensive Security
+# Penetration Tester | Offensive Security
 
 Focused on **Network**, **Web Application**, and **Active Directory** penetration testing.  
 Active on **TryHackMe** and **Hack The Box**.
