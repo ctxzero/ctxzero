@@ -27,26 +27,9 @@ I build tools, document everything, and believe that solid enumeration wins more
 
 ## Certifications
 
-<table>
-<tr>
-<td width="50%">
-
-**✅ &nbsp;eJPT**
-<br><sub>eLearnSecurity Junior Penetration Tester &nbsp;·&nbsp; ![](https://img.shields.io/badge/COMPLETED-0d2117?style=flat-square&color=238636&labelColor=0d2117&logoColor=3fb950)</sub>
-
-</td>
-<td width="50%">
-
-**✅ &nbsp;Cyber Threat Intelligence 101**
-<br><sub>TCM Security &nbsp;·&nbsp; ![](https://img.shields.io/badge/COMPLETED-0d2117?style=flat-square&color=238636&labelColor=0d2117)</sub>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**🔄 &nbsp;CPTS — Certified Penetration Testing Specialist**
-<br><sub>Hack The Box &nbsp;·&nbsp; ![](https://img.shields.io/badge/IN%20PROGRESS-1a1400?style=flat-square&color=9e6a03&labelColor=1a1400)</sub>
+✅ &nbsp;**eJPT** — eLearnSecurity Junior Penetration Tester  
+✅ &nbsp;**Cyber Threat Intelligence 101** — TCM Security  
+🔄 &nbsp;**CPTS** — HTB Certified Penetration Testing Specialist *(in progress)*
 
 </td>
 </tr>
@@ -76,15 +59,8 @@ High-speed TCP port scanner with multi-source CVE enrichment and exportable repo
 
 Documented solutions from Hack The Box and TryHackMe. Every writeup covers the full methodology — enumeration, exploitation, privilege escalation, and lessons learned. No copy-paste, no shortcuts.
 
----
 
-## Progress
 
-<div align="center">
-
-[![HackTheBox]([https://profile.hackthebox.com/profile/019ccad4-67c2-71d4-9991-7d0936b42b9e])
-
-</div>
 
 
 
