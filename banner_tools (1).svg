@@ -1,0 +1,108 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      /* total cycle = 9 tools * 2s = 18s */
+      /* each tool: visible 1.4s, hidden 16.6s */
+      /* fade in 0.3s, hold, fade out 0.3s */
+
+      @keyframes t1 {
+        0%                     { opacity:0; transform:scale(1.6); }
+        1.7%                   { opacity:1; transform:scale(1); }
+        7.2%                   { opacity:1; transform:scale(1); }
+        8.9%                   { opacity:0; transform:scale(1); }
+        100%                   { opacity:0; transform:scale(1); }
+      }
+      @keyframes t2 {
+        0%,11.1%               { opacity:0; transform:scale(1.6); }
+        12.8%                  { opacity:1; transform:scale(1); }
+        18.3%                  { opacity:1; transform:scale(1); }
+        20%                    { opacity:0; transform:scale(1); }
+        100%                   { opacity:0; transform:scale(1); }
+      }
+      @keyframes t3 {
+        0%,22.2%               { opacity:0; transform:scale(1.6); }
+        23.9%                  { opacity:1; transform:scale(1); }
+        29.4%                  { opacity:1; transform:scale(1); }
+        31.1%                  { opacity:0; transform:scale(1); }
+        100%                   { opacity:0; transform:scale(1); }
+      }
+      @keyframes t4 {
+        0%,33.3%               { opacity:0; transform:scale(1.6); }
+        35%                    { opacity:1; transform:scale(1); }
+        40.6%                  { opacity:1; transform:scale(1); }
+        42.2%                  { opacity:0; transform:scale(1); }
+        100%                   { opacity:0; transform:scale(1); }
+      }
+      @keyframes t5 {
+        0%,44.4%               { opacity:0; transform:scale(1.6); }
+        46.1%                  { opacity:1; transform:scale(1); }
+        51.7%                  { opacity:1; transform:scale(1); }
+        53.3%                  { opacity:0; transform:scale(1); }
+        100%                   { opacity:0; transform:scale(1); }
+      }
+      @keyframes t6 {
+        0%,55.6%               { opacity:0; transform:scale(1.6); }
+        57.2%                  { opacity:1; transform:scale(1); }
+        62.8%                  { opacity:1; transform:scale(1); }
+        64.4%                  { opacity:0; transform:scale(1); }
+        100%                   { opacity:0; transform:scale(1); }
+      }
+      @keyframes t7 {
+        0%,66.7%               { opacity:0; transform:scale(1.6); }
+        68.3%                  { opacity:1; transform:scale(1); }
+        73.9%                  { opacity:1; transform:scale(1); }
+        75.6%                  { opacity:0; transform:scale(1); }
+        100%                   { opacity:0; transform:scale(1); }
+      }
+      @keyframes t8 {
+        0%,77.8%               { opacity:0; transform:scale(1.6); }
+        79.4%                  { opacity:1; transform:scale(1); }
+        85%                    { opacity:1; transform:scale(1); }
+        86.7%                  { opacity:0; transform:scale(1); }
+        100%                   { opacity:0; transform:scale(1); }
+      }
+      @keyframes t9 {
+        0%,88.9%               { opacity:0; transform:scale(1.6); }
+        90.6%                  { opacity:1; transform:scale(1); }
+        96.1%                  { opacity:1; transform:scale(1); }
+        97.8%                  { opacity:0; transform:scale(1); }
+        100%                   { opacity:0; transform:scale(1); }
+      }
+
+      .tool { opacity:0; transform-origin:450px 120px; font-family:'Arial Black',sans-serif; font-size:62px; font-weight:900; letter-spacing:-1px; }
+      .a1 { animation: t1 18s linear infinite; }
+      .a2 { animation: t2 18s linear infinite; }
+      .a3 { animation: t3 18s linear infinite; }
+      .a4 { animation: t4 18s linear infinite; }
+      .a5 { animation: t5 18s linear infinite; }
+      .a6 { animation: t6 18s linear infinite; }
+      .a7 { animation: t7 18s linear infinite; }
+      .a8 { animation: t8 18s linear infinite; }
+      .a9 { animation: t9 18s linear infinite; }
+    </style>
+  </defs>
+
+  <rect width="900" height="220" fill="#000"/>
+
+  <!-- corners -->
+  <rect x="16" y="16" width="24" height="1.5" fill="#388bfd" opacity="0.7"/>
+  <rect x="16" y="16" width="1.5" height="24" fill="#388bfd" opacity="0.7"/>
+  <rect x="860" y="16" width="24" height="1.5" fill="#388bfd" opacity="0.7"/>
+  <rect x="882.5" y="16" width="1.5" height="24" fill="#388bfd" opacity="0.7"/>
+  <rect x="16" y="202.5" width="24" height="1.5" fill="#388bfd" opacity="0.7"/>
+  <rect x="16" y="179" width="1.5" height="24" fill="#388bfd" opacity="0.7"/>
+  <rect x="860" y="202.5" width="24" height="1.5" fill="#388bfd" opacity="0.7"/>
+  <rect x="882.5" y="179" width="1.5" height="24" fill="#388bfd" opacity="0.7"/>
+
+  <text class="tool a1" x="450" y="132" text-anchor="middle"><tspan fill="#fff">burp</tspan><tspan fill="#388bfd">suite</tspan></text>
+  <text class="tool a2" x="450" y="132" text-anchor="middle"><tspan fill="#fff">blood</tspan><tspan fill="#388bfd">hound</tspan></text>
+  <text class="tool a3" x="450" y="132" text-anchor="middle"><tspan fill="#fff">rust</tspan><tspan fill="#388bfd">scan</tspan></text>
+  <text class="tool a4" x="450" y="132" text-anchor="middle"><tspan fill="#fff">liga</tspan><tspan fill="#388bfd">lo-ng</tspan></text>
+  <text class="tool a5" x="450" y="132" text-anchor="middle"><tspan fill="#fff">evil</tspan><tspan fill="#388bfd">-winrm</tspan></text>
+  <text class="tool a6" x="450" y="132" text-anchor="middle"><tspan fill="#fff">mimi</tspan><tspan fill="#388bfd">katz</tspan></text>
+  <text class="tool a7" x="450" y="132" text-anchor="middle"><tspan fill="#fff">n</tspan><tspan fill="#388bfd">map</tspan></text>
+  <text class="tool a8" x="450" y="132" text-anchor="middle"><tspan fill="#fff">f</tspan><tspan fill="#388bfd">fuf</tspan></text>
+  <text class="tool a9" x="450" y="132" text-anchor="middle"><tspan fill="#fff">crack</tspan><tspan fill="#388bfd">mapexec</tspan></text>
+
+  <text x="450" y="183" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#388bfd" opacity="0.35" letter-spacing="7">TOOLSET</text>
+</svg>

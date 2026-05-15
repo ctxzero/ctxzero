@@ -1,0 +1,29 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .name { animation: fadein 1.2s cubic-bezier(0.16,1,0.3,1) 0.3s both; }
+      .sub  { animation: fadein 0.8s ease 1.2s both; }
+      @keyframes fadein {
+        from { opacity: 0; transform: translateY(7px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+  </defs>
+  <rect width="900" height="220" fill="#000"/>
+  <rect x="16" y="16" width="24" height="1.5" fill="#388bfd" opacity="0.7"/>
+  <rect x="16" y="16" width="1.5" height="24" fill="#388bfd" opacity="0.7"/>
+  <rect x="860" y="16" width="24" height="1.5" fill="#388bfd" opacity="0.7"/>
+  <rect x="882.5" y="16" width="1.5" height="24" fill="#388bfd" opacity="0.7"/>
+  <rect x="16" y="202.5" width="24" height="1.5" fill="#388bfd" opacity="0.7"/>
+  <rect x="16" y="179" width="1.5" height="24" fill="#388bfd" opacity="0.7"/>
+  <rect x="860" y="202.5" width="24" height="1.5" fill="#388bfd" opacity="0.7"/>
+  <rect x="882.5" y="179" width="1.5" height="24" fill="#388bfd" opacity="0.7"/>
+  <g class="name">
+    <text x="450" y="128" text-anchor="middle" font-family="'Arial Black', sans-serif" font-size="82" font-weight="900" letter-spacing="-3">
+      <tspan fill="#ffffff">ctx</tspan><tspan fill="#388bfd">zero</tspan>
+    </text>
+  </g>
+  <g class="sub">
+    <text x="450" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#388bfd" opacity="0.4" letter-spacing="7">OFFENSIVE SECURITY</text>
+  </g>
+</svg>
