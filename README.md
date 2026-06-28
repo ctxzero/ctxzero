@@ -29,7 +29,7 @@ I build tools, document everything, and believe that solid enumeration wins more
 
 ✅ &nbsp;**eJPT** — eLearnSecurity Junior Penetration Tester  
 ✅ &nbsp;**Cyber Threat Intelligence 101** — TCM Security  
-🔄 &nbsp;**CPTS** — HTB Certified Penetration Testing Specialist *(in progress)*
+✅ &nbsp;**CPTS** — HTB Certified Penetration Testing Specialist
 
 </td>
 </tr>
