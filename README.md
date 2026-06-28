@@ -18,7 +18,6 @@
 
 Offensive security practitioner focused on **network**, **web application**, and **Active Directory** penetration testing. I build tools, document everything, and believe solid enumeration wins more boxes than any exploit ever will.
 
-Every engagement ends in a clear, reproducible report — the same way a real assessment is delivered.
 
 🌐 &nbsp;**[ctxzero.dev](https://www.ctxzero.dev)** &nbsp;·&nbsp; 📍 Europe &nbsp;·&nbsp; 🟢 Open to opportunities
 
@@ -74,7 +73,6 @@ Documented solutions from **Hack The Box** and **TryHackMe**. Every writeup cove
 
 <div align="center">
 
-`ctxzero.pentest@gmail.com`
 
 </div>
 
