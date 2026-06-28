@@ -19,7 +19,7 @@
 
 ## About
 
-Offensive security practitioner focused on network, web application, and Active Directory penetration testing. Currently preparing for the HTB CPTS certification
+Offensive security practitioner focused on network, web application, and Active Directory penetration testing.
 
 I build tools, document everything, and believe that solid enumeration wins more boxes than any exploit ever will.
 
