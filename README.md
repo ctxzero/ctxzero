@@ -60,7 +60,7 @@ Documented solutions from **Hack The Box** and **TryHackMe**. Every writeup cove
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](www.linkedin.com/in/luisschlegel-cs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://linkedin.com/in/luisschlegel-cs)
 &nbsp;
 [![Website](https://img.shields.io/badge/ctxzero.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=0d1117)](https://ctxzero.dev)
 &nbsp;
