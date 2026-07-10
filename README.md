@@ -37,7 +37,7 @@ Offensive security practitioner focused on **network**, **web application**, and
 
 High-speed TCP port scanner with multi-source CVE enrichment and exportable reports.
 
-- Multi-threaded scanning — up to 450 concurrent workers
+- Multi-threaded scanning - up to 450 concurrent workers
 - Real-time vulnerability intelligence: NVD · CIRCL · Exploit-DB
 - Banner grabbing, TLS cert parsing, service fingerprinting
 - HTML &amp; JSON report export with clickable CVE links
@@ -52,7 +52,7 @@ High-speed TCP port scanner with multi-source CVE enrichment and exportable repo
 
 ### [Writeups](https://github.com/ctxzero/writeups)
 
-Documented solutions from **Hack The Box** and **TryHackMe**. Every writeup covers the full methodology — enumeration, exploitation, privilege escalation, and lessons learned. No copy-paste, no shortcuts.
+Documented solutions from **Hack The Box** and **TryHackMe**. Every writeup covers the full methodology - enumeration, exploitation, privilege escalation, and lessons learned. No copy-paste, no shortcuts.
 
 ---
 
