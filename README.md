@@ -26,6 +26,7 @@ Offensive security practitioner focused on **network**, **web application**, and
 ## Certifications
 
 - ✅ &nbsp;**CPTS** - Certified Penetration Testing Specialist · Hack The Box - [Verify ↗](https://profile.hackthebox.com/profile/019ccad4-67c2-71d4-9991-7d0936b42b9e)
+- ✅ &nbsp;**CWES** - Certified Web Exploitation Specialist · Hack The Box - [Verify ↗](https://www.credly.com/badges/761ef999-4aa6-40cc-b0ce-6a0ef93e7762/public_url)
 - ✅ &nbsp;**eJPT** - Junior Penetration Tester · INE / eLearnSecurity - [Verify ↗](https://certs.ine.com/332e236c-0c13-46b2-9f85-829313d2dd27)
 - ✅ &nbsp;**CTI 101** - Cyber Threat Intelligence · ArcX
 
