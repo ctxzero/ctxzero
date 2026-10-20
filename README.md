@@ -19,7 +19,7 @@
 Offensive security practitioner focused on **network**, **web application**, and **Active Directory** penetration testing. I build tools, document everything, and believe solid enumeration wins more boxes than any exploit ever will.
 
 
-🌐 &nbsp;**[ctxzero.dev](https://www.ctxzero.dev)** &nbsp;·&nbsp; 📍 Europe &nbsp;·&nbsp; 🟢 Open to opportunities
+🌐 &nbsp;**[ctxzero.dev](https://www.ctxzero.dev)** &nbsp;·&nbsp;
 
 ---
 
